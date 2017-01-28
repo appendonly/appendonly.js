@@ -1,0 +1,15 @@
+{
+  "name": "appendonly",
+  "version": "1.0.0",
+  "description": "Appendonly log with replay",
+  "main": "appendonly.js",
+  "keywords": [
+    "log","appendonly", "append", "stream",
+    "event sourcing", "event processing", "immutable"
+  ],
+  "author": "Jelle Herold <wires@defekt.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "documentation": "^4.0.0-beta13"
+  }
+}
